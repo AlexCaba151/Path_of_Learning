@@ -62,10 +62,16 @@ def clever_stories():
     
     #Output prints
     print("\n YOUR STORY IS: ")
-    print("-------------------------------------------------------------------------------------")
+    print("----------------------------------------------------------------------------------------------------")
     
     print(f'The other day, I was really in trouble. It all started when I saw a very {adjective.upper()} {animal.upper()} {verb_1.upper()} down the hallway.\n"{exclamation.upper()}!" I yelled. But all I could think to do was to {verb_2.upper()} over and over. Miraculously,that caused\nit to stop, but not before it tried to {verb_3.upper()} right in front of my family.')
     
-    print("-------------------------------------------------------------------------------------")
+    print("----------------------------------------------------------------------------------------------------")
 
 clever_stories()
+
+'''For this assignment, here are some ideas of how you might show creativity in addition to the core requirements:
+
+Consider adding more to the story, including several more words that will be filled in.
+If you have previous experience with topics that we will see later in the semester, consider a sentence that has an "a" or "an" in front of your word, and let the program fill in the right one.
+You can also do anything else you can think of. Remember, the goal here is to experiment with different ideas and to have fun.'''
