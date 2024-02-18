@@ -19,6 +19,7 @@ Your name is Young, Brigham Young.'''
 def name_and_last_name():
     first_name = input("What's  your first name? ")
     last_name =input("What's your last name? ")
+    # This is for the the second part, where we adjust the capitalization
     print(f"your name is {last_name.title()}, {first_name.title()} {last_name.title()}")
 
 name_and_last_name()

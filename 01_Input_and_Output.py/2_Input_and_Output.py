@@ -20,3 +20,4 @@ def combine_strings():
     print("Hello " + first_name + "" + last_name)
     
 combine_strings()
+'''"Strings" are variables that are a sequence of characters (for example, letters, numbers, spaces, symbols, etc.).'''
