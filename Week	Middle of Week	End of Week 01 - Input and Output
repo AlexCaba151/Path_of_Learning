@@ -1,0 +1,20 @@
+The Basics of Writing a Program
+We all interact with many kinds of devices, websites, and apps that are made from "programs." As you might imagine, apps such as Instagram or Google Maps are quite complex and have taken teams of professional programmers many months or years to create. You are starting on the journey that can lead to creating programs that are just polished and interactive, but we will begin with much simpler programs.
+
+The essence of all programs, no matter how complex or simple, is that they provide a step-by-step list of instructions that the computer will follow. The computer, while powerful, is also very simplistic—it only does what you tell it. In addition, it does exactly what you tell it to do, nothing more and nothing less, and if you leave out a very small thing, or make even a tiny mistake, the computer is very unforgiving.
+
+Starting with this activity, you are going to practice writing programs—the step-by-step instructions for the computer—and you are going to start with simple ones. You will start by displaying words on the screen and have the user type responses in a text window. While not nearly as glamorous as the professional apps you see around you, the fundamentals are the same. These simple programs will help you develop skills you need to create more powerful and more exciting applications as you continue to learn.
+
+Hint from me:
+In programming, when we use the word "print," it means that the words will be displayed on the screen when the program is run—it doesn't have anything to do with actual "printers."
+
+Please watch the following videos that introduce the idea of writing programs. While you are watching, you might want to pause the videos and follow along by typing the same code on your computer. The demos they walk through will be very similar to the assignments you have this week.
+
+Hint from Instructor:
+If you have trouble running your programs by typing python helloworld.py the way they do in the videos or finding the bottom section of the screen where they typed it, you might try selecting the green play button in the top right corner of Visual Studio Code instead.
+
+Also, when you run your program for the first time, you will see lots of other text in the window that displays messages from when Visual Studio Code started up. You don't need to worry about all of these messages. The important thing is to look at the bottom and see if your message displayed after all of this other text.
+
+Typing python and the name of your program to run it (like they do in the video) only works if your computer is set up to find Python automatically. If it works for you, feel free to use that approach, but otherwise, it's not a problem.
+
+If typing python doesn't work for you, the simplest way to run your program, and the one that works the most reliably regardless of your computer's configuration, is to make sure your program is saved with .py at the end of the filename, and then click the green play button in the upper right hand corner to run the program. Other students have also found that typing python3 or py instead of python has worked for their configuration.
