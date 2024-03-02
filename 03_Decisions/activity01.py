@@ -12,8 +12,9 @@ If the two numbers are equal print "The numbers are equal". Otherwise, print "Th
 
 If the second number is greater than the first, print "The second number is greater". Otherwise, print "The second number is not greater".'''
 
+
 def comparing_strings():
-    print("==============================")
+    print("=================================")
     first_num = int(input("What's the first number? "))
     second_number = int(input("What's the second number? "))
     print("=================================")
@@ -38,6 +39,7 @@ def comparing_strings():
         print("That one isn't my favorite!")
     print("=================================")
 comparing_strings()
+
 
 '''Testing Procedure
 Verify that your program works correctly by following each step in this testing procedure:
